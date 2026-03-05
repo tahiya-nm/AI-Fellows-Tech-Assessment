@@ -15,7 +15,7 @@ ai_client = AsyncOpenAI(api_key=API_KEY)
 # ==========================================
 # 1. TOOL DEFINITIONS
 # ==========================================
-# Tool for querying the uploaded ANC JSON guidelines
+# Tool for querying the uploaded knowledge base
 anc_knowledge_tool = FileSearchTool(
     vector_store_ids=[KB_VECTOR_STORE_ID]
 )
