@@ -87,13 +87,17 @@ The following test cases demonstrate the agent's deterministic routing, fallback
 ## Limitations & Future Scaling
 While this prototype successfully demonstrates clinical guardrails, scaling it for real-world LMIC deployments requires infrastructure shifts:
 
-**Multimodal Delivery:** The current web app setup should be replaced with a scalable backend that can be integrated into low-bandwidth setups and accessible platforms, such as WhatsApp Business API or SMS chat systems (e.g., Twilio).
+**Multimodal Delivery:** 
+- The current web app setup should be replaced with a scalable backend that can be integrated into low-bandwidth setups and accessible platforms, such as WhatsApp Business API or SMS chat systems (e.g., Twilio).
 
-**Audio Integration:** To combat literacy barriers, Speech-to-Text (STT) and Text-to-Speech (TTS) must be integrated, allowing patients to interact verbally.
+**Audio Integration:** 
+- To combat literacy barriers, Speech-to-Text (STT) and Text-to-Speech (TTS) must be integrated, allowing patients to interact verbally.
 
-**Agentic Latency:** The system prompt and guardrails currently introduce network latency. In low-bandwidth areas, this requires optimization to prevent session timeouts or user fatigue.
+**Agentic Latency:** 
+- The system prompt and guardrails currently introduce network latency. In low-bandwidth areas, this requires optimization to prevent session timeouts or user fatigue.
 
-**Data Privacy:** Patient data must be stored on local or protected infrastructure (rather than managed LLM vector stores) to comply with regional health data privacy laws.
+**Data Privacy:** 
+- Patient data must be stored on local or protected infrastructure (rather than managed LLM vector stores) to comply with regional health data privacy laws.
 
 
 *Disclaimer:* This prototype is for demonstration and evaluation purposes only. It is not intended for active deployment in a clinical or diagnostic setting without a comprehensive medical review.
