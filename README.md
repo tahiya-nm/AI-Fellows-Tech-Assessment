@@ -5,7 +5,6 @@ This repository contains a lightweight, safety-critical conversational agent pro
 
 <img src="assets/main_page.png" width="1050"> 
 
-**Table of Contents**
 <p align="center">
   <a href="#core-architecture--features">Core Architecture & Features</a> •
   <a href="#local-environment-setup">Local Environment Setup</a> •
