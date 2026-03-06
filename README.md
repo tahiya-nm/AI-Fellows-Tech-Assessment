@@ -1,9 +1,7 @@
-# AI Assistant for Antenatal Care 
+# Conversation Agent for Antenatal Care 
 
 ## Overview
-This repository contains a lightweight, safety-critical conversational agent prototype designed to provide antenatal care education. Built to operate safely within global health contexts, this system strictly separates educational triage from clinical diagnostics. 
-
-Instead of relying on standard, open-ended generative AI, this application utilizes a **Deterministic Tiered-Retrieval System**. It forces the Large Language Model (LLM) to route queries through a strict hierarchy (Explicit Knowledge Base → Inferred Knowledge Base → Authoritative Web Search) and enforces hard boundaries against providing direct medical advice.
+This repository contains a lightweight, safety-critical conversational agent prototype designed to provide antenatal care education. Built to operate safely within LMIC (Low- and Middle-Income Countries) health contexts, this system strictly separates educational triage from clinical diagnostics. 
 
 <img src="assets/main_page.png" width="1050"> 
 
@@ -20,9 +18,9 @@ Instead of relying on standard, open-ended generative AI, this application utili
 
 ## Technical Prerequisites
 To run this application locally, ensure your system meets the following requirements:
-* **Python**: `v3.12` or higher
+* **Python**: `v3.11` or higher
 * **OpenAI API Key**: With access to GPT-5 models.
-* **OpenAI Vector Store**: A pre-configured vector store containing your JSON-based antenatal care guidelines.
+* **OpenAI Vector Store**: A pre-configured vector store containing your antenatal care guideline files.
 
 ---
 
@@ -31,8 +29,8 @@ To run this application locally, ensure your system meets the following requirem
 **1. Clone the repository and navigate to the project root:**
 ```bash
 # Example
-# git clone <repository-url>
-# cd modular_antenatal_bot
+git clone <repository-url>
+cd modular_antenatal_bot
 ```
 
 **2. Initialize and activate a virtual environment:**
