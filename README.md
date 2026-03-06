@@ -5,7 +5,7 @@ This repository contains a lightweight, safety-critical conversational agent pro
 
 <img src="assets/main_page.png" width="1050"> 
 
-### Core Architecture & Features
+## Core Architecture & Features
 
 | Feature | Description |
 | :--- | :--- |
@@ -24,7 +24,7 @@ To run this application locally, ensure your system meets the following requirem
 
 ---
 
-## Local Environment Setup
+### Local Environment Setup
 
 **1. Clone the repository and navigate to the project root:**
 ```bash
@@ -65,7 +65,7 @@ touch .gitignore
 # Add the ".env" and any other files you want to keep private before committing to Git. 
 ```
 
-# Running the Application
+## Running the Application
 Once the environment is configured, launch the Streamlit interface:
 ```bash
 streamlit run interface.py
