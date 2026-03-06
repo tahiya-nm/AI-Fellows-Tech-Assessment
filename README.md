@@ -3,12 +3,6 @@
 ## Overview
 This repository contains a lightweight, safety-critical conversational agent prototype designed to provide antenatal care education. Built to operate safely within LMIC (Low- and Middle-Income Countries) health contexts, this system strictly separates educational triage from clinical diagnostics. 
 
-### Landing Page
-<img src="assets/main_page.png" width="1050"> 
-
-### Demo
-https://github.com/user-attachments/assets/9105c08c-dd01-4cbb-bf3d-a26a8aec9df7
-
 <p align="center">
   <a href="#core-architecture--features">Core Architecture & Features</a> •
   <a href="#local-environment-setup">Local Environment Setup</a> •
@@ -17,6 +11,12 @@ https://github.com/user-attachments/assets/9105c08c-dd01-4cbb-bf3d-a26a8aec9df7
   <a href="#evaluation--test-cases">Installation & Usage</a> •
   <a href="#limitations--future-scaling">Limitations & Future Scaling</a>
 </p>
+
+### Landing Page
+<img src="assets/main_page.png" width="1050"> 
+
+### Demo
+https://github.com/user-attachments/assets/9105c08c-dd01-4cbb-bf3d-a26a8aec9df7
 
 ## Core Architecture & Features
 
