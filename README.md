@@ -1,4 +1,4 @@
-# Conversation Agent for Antenatal Care 
+# Antenatal Care Assistant: Conversational AI Agent
 
 ## Overview
 This repository contains a lightweight, safety-critical conversational agent prototype designed to provide antenatal care education. Built to operate safely within LMIC (Low- and Middle-Income Countries) health contexts, this system strictly separates educational triage from clinical diagnostics. 
