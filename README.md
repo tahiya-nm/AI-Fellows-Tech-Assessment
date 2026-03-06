@@ -7,6 +7,11 @@ This repository contains a lightweight, safety-critical conversational agent pro
 
 https://github.com/user-attachments/assets/9105c08c-dd01-4cbb-bf3d-a26a8aec9df7
 
+
+![antenatalcareagentdemo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3a0f3c44-7046-4fa4-9a02-454725d0b1c6)
+
+
+
 <p align="center">
   <a href="#core-architecture--features">Core Architecture & Features</a> •
   <a href="#local-environment-setup">Local Environment Setup</a> •
