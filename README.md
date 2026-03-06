@@ -8,10 +8,13 @@ Instead of relying on standard, open-ended generative AI, this application utili
 <img src="assets/main_page.png" width="1050"> 
 
 ### Core Architecture & Features
-* **Tiered Retrieval & Citation:** The agent transparently cites its source for every response in a structured UI element, ensuring traceability.
-* **Clinical Firewalls:** The system prompt explicitly refuses to diagnose or triage medical symptoms, acting as an escalation funnel rather than a clinician.
-* **Human-in-the-Loop (HITL) Mode:** Features a toggleable "Clinician Mode" interface. This allows licensed healthcare professionals to review the chat history and inject verified medical guidance directly into the patient's chat stream during medical emergencies.
-* **Accessible Communication:** The LLM is strictly constrained from using medical jargon or alienating labels, ensuring empathetic and accessible communication for all health literacy levels.
+
+| Feature | Description |
+| :--- | :--- |
+| **Tiered Retrieval & Citation** | The agent transparently cites its source for every response in a structured UI element, ensuring traceability. |
+| **Clinical Firewalls** | The system prompt explicitly refuses to diagnose or triage medical symptoms, acting as an escalation funnel rather than a clinician. |
+| **Human-in-the-Loop (HITL) Mode** | Features a toggleable "Clinician Mode" interface. This allows licensed healthcare professionals to review the chat history and inject verified medical guidance directly into the patient's chat stream during medical emergencies. |
+| **Accessible Communication** | The LLM is strictly constrained from using medical jargon or alienating labels, ensuring empathetic and accessible communication for all health literacy levels. |
 
 ---
 
