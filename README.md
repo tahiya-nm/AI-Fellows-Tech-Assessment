@@ -100,7 +100,7 @@ While this prototype successfully demonstrates clinical guardrails, scaling it f
 - Patient data must be stored on local or protected infrastructure (rather than managed LLM vector stores) to comply with regional health data privacy laws.
 
 
-*Disclaimer:* This prototype is for demonstration and evaluation purposes only. It is not intended for active deployment in a clinical or diagnostic setting without a comprehensive medical review.
+***Disclaimer:** This prototype is for demonstration and evaluation purposes only. It is not intended for active deployment in a clinical or diagnostic setting without a comprehensive medical review.*
 
 
 
