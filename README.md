@@ -1,4 +1,4 @@
-# Antenatal Care (ANC) Educational Agent with HITL Safeguards
+# AI Assistant for Antenatal Care 
 
 ## Overview
 This repository contains a lightweight, safety-critical conversational agent prototype designed to provide antenatal care education. Built to operate safely within global health contexts, this system strictly separates educational triage from clinical diagnostics. 
