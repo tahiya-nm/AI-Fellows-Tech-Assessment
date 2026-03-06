@@ -53,7 +53,6 @@ pip install -r requirements.txt
 Create a .env file in the root directory. Do not commit this file to version control. 
 ```bash
 # Open the `.env` file and add your secure credentials:
-# .env
 OPENAI_API_KEY=sk-your-actual-api-key-here
 VECTOR_STORE_ID=vs_your_actual_vector_store_id_here
 ```
