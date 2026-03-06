@@ -5,6 +5,13 @@ This repository contains a lightweight, safety-critical conversational agent pro
 
 <img src="assets/main_page.png" width="1050"> 
 
+## Table of Contents
+- [Core Architecture & Features](#core-architecture--features)
+- [Local Environment Setup](#local-environment-setup)
+- [Running the Application](#running-the-application)
+- [Evaluation & Test Cases](#evaluation--test-cases)
+- [Limitations & Future Scaling](#limitations--future-scaling)
+
 ## Core Architecture & Features
 
 | Feature | Description |
