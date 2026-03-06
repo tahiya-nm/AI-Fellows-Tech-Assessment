@@ -30,33 +30,39 @@ To run this application locally, ensure your system meets the following requirem
 ```bash
 # Example
 git clone <repository-url>
-cd modular_antenatal_bot
+cd antenatal-care-agent
 ```
 
 **2. Initialize and activate a virtual environment:**
-```python -m venv .venv```
+```bash
+python -m venv .venv
 
 # On macOS / Linux:
-```source .venv/bin/activate```
+source .venv/bin/activate
 # On Windows:
-```# .venv\Scripts\activate```
+# .venv\Scripts\activate
+```
 
 **3. Install required dependencies:**
-```pip install --upgrade pip```
-```pip install -r requirements.txt```
-
+```bash
+pip install --upgrade pip
+pip install -r requirements.txt
+```
 
 **4. Configure Environment Variables:**
-Create a .env file in the root directory. Do not commit this file to version control. ```bash
-Open the `.env` file and add your secure credentials:
-```env
+Create a .env file in the root directory. Do not commit this file to version control. 
+```bash
+# Open the `.env` file and add your secure credentials:
+# .env
 OPENAI_API_KEY=sk-your-actual-api-key-here
 VECTOR_STORE_ID=vs_your_actual_vector_store_id_here
 ```
 
 # Running the Application
 Once the environment is configured, launch the Streamlit interface:
-```streamlit run interface.py```
+```bash
+streamlit run interface.py
+```
 The application should automatically open in your default browser at http://localhost:8502.
 
 ## Evaluation & Test Cases
