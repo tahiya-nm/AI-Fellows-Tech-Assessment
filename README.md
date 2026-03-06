@@ -5,7 +5,7 @@ This repository contains a lightweight, safety-critical conversational agent pro
 
 Instead of relying on standard, open-ended generative AI, this application utilizes a **Deterministic Tiered-Retrieval System**. It forces the Large Language Model (LLM) to route queries through a strict hierarchy (Explicit Knowledge Base → Inferred Knowledge Base → Authoritative Web Search) and enforces hard boundaries against providing direct medical advice.
 
-<img src="assets/main_page.png" width="350"> |
+<img src="assets/main_page.png" width="1050"> 
 
 ### Core Architecture & Features
 * **Tiered Retrieval & Citation:** The agent transparently cites its source for every response in a structured UI element, ensuring traceability.
