@@ -22,10 +22,10 @@ https://github.com/user-attachments/assets/9105c08c-dd01-4cbb-bf3d-a26a8aec9df7
 
 | Feature | Description |
 | :--- | :--- |
-| **Tiered Retrieval & Citation** | The agent transparently cites its source for every response, ensuring traceability. |
-| **Clinical Firewalls** | The system prompt explicitly refuses to diagnose or triage medical symptoms, acting as an escalation funnel rather than a clinician. |
-| **Human-in-the-Loop (HITL) Mode** | Features a toggleable "Clinician Mode" interface. This allows licensed healthcare professionals to review the chat history and inject verified medical guidance directly into the patient's chat stream during medical emergencies. |
-| **Accessible Communication** | The LLM is strictly constrained from using medical jargon or alienating labels, ensuring empathetic and accessible communication for all health literacy levels. |
+| **Tiered Retrieval & Citation 🔍** | The agent transparently cites its source for every response, ensuring traceability. |
+| **Clinical Firewalls 🔒** | The system prompt explicitly refuses to diagnose or triage medical symptoms, acting as an escalation funnel rather than a clinician. |
+| **Human-in-the-Loop (HITL) Mode 🧠** | Features a toggleable "Clinician Mode" interface. This allows licensed healthcare professionals to review the chat history and inject verified medical guidance directly into the patient's chat stream during medical emergencies. |
+| **Accessible Communication ✅** | The LLM is strictly constrained from using medical jargon or alienating labels, ensuring empathetic and accessible communication for all health literacy levels. |
 
 ---
 
