@@ -12,7 +12,8 @@ This repository contains a lightweight, safety-critical conversational agent pro
   <a href="#limitations--future-scaling">Limitations & Future Scaling</a>
 </p>
 
-## [Link to Live App](https://tahiya-mahin-antenatal-care-agent.streamlit.app/)
+### Link to Live App
+You can access this conversational agent directly in your browser [here.](https://tahiya-mahin-antenatal-care-agent.streamlit.app/)
 
 ### Landing Page
 <img src="assets/main_page.png" width="1050"> 
