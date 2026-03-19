@@ -46,7 +46,6 @@ To run this application locally, ensure your system meets the following requirem
 ```bash
 # Example
 git clone [https://github.com/tahiya-nm/AI-Fellows-Tech-Assessment.git](https://github.com/tahiya-nm/AI-Fellows-Tech-Assessment.git)
-cd AI-Fellows-Tech-Assessment
 cd antenatal-care-agent
 ```
 
