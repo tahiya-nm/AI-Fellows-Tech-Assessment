@@ -45,7 +45,7 @@ To run this application locally, ensure your system meets the following requirem
 **1. Clone the repository and navigate to the project root:**
 ```bash
 # Example
-git clone [https://github.com/tahiya-nm/AI-Fellows-Tech-Assessment.git](https://github.com/tahiya-nm/AI-Fellows-Tech-Assessment.git)
+git clone https://github.com/tahiya-nm/AI-Medical-Care-Assistant.git(https://github.com/tahiya-nm/AI-Fellows-Tech-Assessment.git)
 cd antenatal-care-agent
 ```
 
